@@ -1,0 +1,5 @@
+game.Workspace.Rooms.gateaentrance.ElevatorModel.Floor.CanCollide = true
+game.Workspace.Rooms.gateaentrance.ElevatorModel.Floor.Transparency = 0
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.Position = game.Workspace.Rooms.gateaentrance.ElevatorModel.Floor.Position + Vector3.new(0,4,0)
+
